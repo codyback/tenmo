@@ -1,0 +1,5 @@
+2022-03-12T14:04:19.309278 404 : [{"timestamp":"2022-03-12T19:04:19.285+00:00","status":404,"error":"Not Found","message":"No message available","path":"/api/accounts/2001/transfers/2"}]
+2022-03-12T17:13:31.27296 500 : [{"timestamp":"2022-03-12T22:13:31.257+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.model.Account.getAccount_id()\" because the return value of \"com.techelevator.tenmo.model.Transfer.getAccount_from()\" is null","path":"/api/transfers"}]
+2022-03-12T17:25:27.352843 400 : [{"timestamp":"2022-03-12T22:25:27.340+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-03-12T18:24:37.330694 400 : [{"timestamp":"2022-03-12T23:24:37.311+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-03-12T18:27:07.34581 400 : [{"timestamp":"2022-03-12T23:27:07.339+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
